@@ -3,7 +3,7 @@ import csv
 # open file the excel file
 with open("C:/Users/induj/OneDrive/Documents/Repository/Python_challenge/PyBank/Resources/budget_data.csv")as csvfile:
     #print final output to the txt file
-    file_save = open("C:/Users/induj/OneDrive/Documents/Repos/Python_challenge/PyBank/analysis.txt","w")
+    file_save = open("C:/Users/induj/OneDrive/Documents/Repository/Python_challenge/PyBank/analysis.txt","w")
     csvreader = csv.reader(csvfile, delimiter=',')
     print(csvreader)
     # Read the header row
