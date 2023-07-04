@@ -7,7 +7,7 @@ Get a complete list of candidates who received votes.
 Calculate the total number of votes each candidate received.
 Calculate the percentage of votes each candidate won.
 Determine the winner of the election based on popular vote.
-output:
+
 
 For Financial Analysis:
 The purpose of this project is to analyze financial record. In this project financial data set budget_data.csv is used
