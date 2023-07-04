@@ -1,0 +1,8 @@
+Total votes:369711
+---------------------
+Charles Casper Stockham:85213,24.13%
+Diana DeGette:272892,73.98%
+Raymon Anthony Doane:11606,3.14%
+---------------------
+Winner is :Diana DeGette
+---------------------
